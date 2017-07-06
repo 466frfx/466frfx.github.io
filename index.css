@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500');
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+body
+{
+    position: fixed; 
+    overflow-y: scroll;
+    width: 100%;
+}
+
+
+body {
+    background: rgba(0, 0, 0, 0.5);
+    padding: 10px;
+}
+
+html {
+    background: url(oran2017.png) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 100%;
+}
+
+body {
+    height: 100%;
+    margin: 0;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+body {
+    text-align: center;
+}
+
+h1,p {
+    margin-bottom: 0;
+}
+
+p {
+    margin-top: 0;
+}
+
+footer {
+    margin-top: 10px;
+}
+
+* {
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 300;
+}
+
+a:link {
+    color:#1e90ff;
+    background-color:transparent;
+    text-decoration:none
+    }
+    
+a:visited {
+    color:#1e90ee;
+    background-color:transparent;
+    text-decoration:none
+    }
+    
+a:hover {
+    color:#1e9fff;
+    background-color:transparent;
+    text-decoration:none
+    }	
