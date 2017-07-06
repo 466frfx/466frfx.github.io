@@ -55,19 +55,19 @@ footer {
 }
 
 a:link {
-    color:#1e90ff;
+    color:#ffffff;
     background-color:transparent;
     text-decoration:none
     }
     
 a:visited {
-    color:#1e90ee;
+    color:#ffffff;
     background-color:transparent;
     text-decoration:none
     }
     
 a:hover {
-    color:#1e9fff;
+    color:#1e90ff;
     background-color:transparent;
     text-decoration:none
     }	
