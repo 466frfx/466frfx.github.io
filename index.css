@@ -16,10 +16,6 @@ body {
     background: rgba(0, 0, 0, 0.5);
     padding: 10px;
 }
-
-html {
-    background-color: #000000;
-}
     
 html {
     background: url(/images/bg.png) no-repeat center center fixed;
