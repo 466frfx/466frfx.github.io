@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Montserrat:300,400,500');
+@import url('https://fonts.googleapis.com/css?family=Montserrat:300');
 
 ::-webkit-scrollbar { 
     display: none; 
@@ -9,12 +9,6 @@ body
     position: fixed; 
     overflow-y: scroll;
     width: 100%;
-}
-
-
-body {
-    background: rgba(0, 0, 0, 0.5);
-    padding: 10px;
 }
     
 html {
