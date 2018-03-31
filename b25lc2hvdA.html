@@ -21,7 +21,17 @@ body {
 
 <script>
 var audio = new Audio('burdenburdenburdenburdenburdenburdenburdenburdenburden.ogg');
-setTimeout("window.close()", 10000);
+
+function loaded()
+{
+    window.setTimeout(CloseMe, 500);
+}
+
+function CloseMe() 
+{
+    window.close();
+}
+
 window.onbeforeunload = function (e) {
     audio.play();
     e = e || window.event;
