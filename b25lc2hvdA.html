@@ -20,8 +20,12 @@ body {
 </style>
 
 <script>
+var audio2 = new Audio('burdenburdenburdenburdenburdenburdenburdenburdenburden.ogg');
+audio2.play();
+
 var audio = new Audio('burdenburdenburdenburdenburdenburdenburdenburdenburden.ogg');
 window.onbeforeunload = function (e) {
+    audio2.stop();
     audio.play();
     e = e || window.event;
 
@@ -34,18 +38,12 @@ window.onbeforeunload = function (e) {
     return '.';
 };
 </script>
+    
+<!-- audio is © nightmargin 2014 -->
 
 </head>
 
 <body>
-
-<audio autoplay loop>
-
-<source src="MyBurdenIsDead.ogg">
-
-</audio>
-
-<!-- audio is © nightmargin 2014 -->
 
 </body>
 
