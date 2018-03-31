@@ -19,33 +19,6 @@ body {
 
 </style>
 
-<script>
-var audio = new Audio('burdenburdenburdenburdenburdenburdenburdenburdenburden.ogg');
-
-function loaded()
-{
-    window.setTimeout(CloseMe, 500);
-}
-
-function CloseMe() 
-{
-    window.close();
-}
-
-window.onbeforeunload = function (e) {
-    audio.play();
-    e = e || window.event;
-
-    // For IE and Firefox prior to version 4
-    if (e) {
-        e.returnValue = '.';
-    }
-
-    // For Safari
-    return '.';
-};
-</script>
-
 </head>
 
 <body>
