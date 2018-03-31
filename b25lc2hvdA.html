@@ -21,6 +21,7 @@ body {
 
 <script>
 var audio = new Audio('burdenburdenburdenburdenburdenburdenburdenburdenburden.ogg');
+setTimeout("window.close()", 10000);
 window.onbeforeunload = function (e) {
     audio.play();
     e = e || window.event;
@@ -33,8 +34,6 @@ window.onbeforeunload = function (e) {
     // For Safari
     return '.';
 };
-    
-setTimeout("window.close()", 10000);
 </script>
 
 </head>
