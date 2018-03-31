@@ -4,27 +4,27 @@
     display: none; 
 }
 
-body
-{
-    position: fixed; 
-    overflow-y: scroll;
-    width: 100%;
-}
-    
-html {
-    height: 100%;
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
 
 body {
+    position: fixed; 
+    overflow-y: scroll;
+    width: 100%;
     background-color:black;
     height: 100%;
     margin: 0;
     background-repeat: no-repeat;
     background-attachment: fixed;
-}
-
-body {
     text-align: center;
+}
+    
+html {
+    height: 100%;
 }
 
 h1,p {
