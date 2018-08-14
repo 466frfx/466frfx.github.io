@@ -17,7 +17,7 @@ body
 }
     
 html {
-    background: url(/images/4662018bg-min.png) no-repeat center center fixed;
+    background: url(/images/466aug2018bg.png) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -55,7 +55,7 @@ a:visited {
     }
     
 a:hover {
-    color:#ff3333;
+    color:#3399ff;
     background-color:transparent;
     text-decoration:none
     }	
