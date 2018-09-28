@@ -47,7 +47,7 @@
     opacity: 1;
 }
 
-#test, #help {
+.both {
     display: inline-block;
 }
 
