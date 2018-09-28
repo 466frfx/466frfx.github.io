@@ -35,6 +35,22 @@
     to   { opacity: 1; }
 }
 
+#help img {
+    opacity: .5;
+    transition: opacity .5s ease-out;
+    -moz-transition: opacity .5s ease-out;
+    -webkit-transition: opacity .5s ease-out;
+    -o-transition: opacity .5s ease-out;
+}
+
+#help img:hover {
+    opacity: 1;
+}
+
+#test, #help {
+    display: inline-block;
+}
+
 html, body, #wrapper {
    height:100%;
    width: 100%;
