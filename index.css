@@ -47,7 +47,11 @@
     opacity: 1;
 }
 
-div.both {
+#test img {
+    display: inline-block;
+}
+
+#help img {
     display: inline-block;
 }
 
