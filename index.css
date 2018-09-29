@@ -36,7 +36,7 @@
 }
 
 #help img {
-    opacity: .5;
+    opacity: 1;
     transition: opacity .5s ease-out;
     -moz-transition: opacity .5s ease-out;
     -webkit-transition: opacity .5s ease-out;
@@ -44,7 +44,7 @@
 }
 
 #help img:hover {
-    opacity: 1;
+    opacity: .5;
 }
 
 div {
