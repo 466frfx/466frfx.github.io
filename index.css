@@ -119,5 +119,5 @@ a:hover {
     }	
 
 .back:hover {
-    color:#ff9800;
+    color:#ff9800 !important;
 }
