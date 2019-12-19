@@ -11,3 +11,5 @@ manga:
 			note: lol
 	planning:
 		Yuri Couple (Yurippuru / 百合っぷる)
+		Happy End of Evangelion
+		Epilogue of Evangelion (Sono Go No Evangelion / その後のEVANGELION:愛)
