@@ -7,10 +7,12 @@ manga:
 			start date: 1 dec 2019
 			end date: 1 dec 2019
 			chapters read: 1/1
-			rating: too short to score, but mangadex can't remove scores so i guess it'll have a rating there foreverrrrrr
 			note: lol
+		Happy End of Evangelion
+			start date: 23 dec 2019
+			end date: 23 dec 2019
+			chapters read: 1/1 (it was a compilation though so the original would've had more than 1 big chapter)
 	planning:
 		Yuri Couple (Yurippuru / 百合っぷる)
-		Happy End of Evangelion
 		Epilogue of Evangelion (Sono Go No Evangelion / その後のEVANGELION:愛)
 		Evangelion: RE-TAKE
