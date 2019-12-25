@@ -12,7 +12,10 @@ manga:
 			start date: 23 dec 2019
 			end date: 23 dec 2019
 			chapters read: 1/1 (it was a compilation though so the original would've had more than 1 big chapter)
+		Epilogue of Evangelion (Sono Go No Evangelion / その後のEVANGELION:愛)
+			start date: 25 dec 2019
+			end date: 25 dec 2019
+			chapters read: 52/52
 	planning:
 		Yuri Couple (Yurippuru / 百合っぷる)
-		Epilogue of Evangelion (Sono Go No Evangelion / その後のEVANGELION:愛)
 		Evangelion: RE-TAKE
