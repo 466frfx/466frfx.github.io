@@ -16,6 +16,9 @@ manga:
 			start date: 25 dec 2019
 			end date: 25 dec 2019
 			chapters read: 52/52
+		Evangelion: RE-TAKE (All Ages Version)
+			start date: 28 dec 2019
+			end date: 28 dec 2019
+			chapters read: 3/3 (actually volumes)
 	planning:
 		Yuri Couple (Yurippuru / 百合っぷる)
-		Evangelion: RE-TAKE
