@@ -67,8 +67,8 @@ onsubmit="return validateValues()">
 </form>
 <br>
 <footer><a href="https://github.com/OatmealDome/Geckiine/blob/master/README.md">For more information, click here</a><br>
-Geckiine created by <a href="https://twitter.com/oatmealdome">OatmealDome</a><br>
-Website created by <a href="http://466gaming.ga">466</a></footer>
+Geckiine created by <a href="https://oatmealdome.me">OatmealDome</a><br>
+Website created by <a href="http://466gaming.ml">466</a></footer>
 
 </font>
 
