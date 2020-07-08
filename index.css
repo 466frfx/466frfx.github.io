@@ -76,13 +76,12 @@ body {
     
 html {
     background: url(/images/466jul2020bg.png) no-repeat center center fixed;
-    background-color: black;
+    background: rgba(0, 0, 0, 0.2);
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
     height: 100%;
-    opacity: 0.6;
 }
 
 h1,p {
