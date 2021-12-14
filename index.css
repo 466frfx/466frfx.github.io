@@ -93,8 +93,10 @@ p {
 }
 
 footer {
-    position: fixed;
-    bottom: 0;
+    position: absolute;
+    transform: translate(-50%, 0);
+    bottom: 0px;
+    left: 50%;
     width: 100px;
     padding: 5px;
 }
