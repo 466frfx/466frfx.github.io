@@ -40,6 +40,27 @@ about me
 function goBack() {
 	window.history.back()
 }
+
+//the following totally isn't copied from a site that's like... btec w3schools
+
+var dob = new Date("12 May 2003");  
+//calculate month difference from current date in time  
+var month_diff = Date.now() - dob.getTime();  
+
+//convert the calculated difference in date format  
+var age_dt = new Date(month_diff);   
+
+//extract year from date      
+var year = age_dt.getUTCFullYear();  
+
+//now calculate the age of the user  
+var age = Math.abs(year - 1970);
+	
+//add the age to the page
+window.onload = function(){
+    document.getElementById("age").innerHTML = age;
+};
+
 </script>
 <!--JAVASCRIPT ENDS HERE-->
 </head>
@@ -51,7 +72,7 @@ function goBack() {
 <p style="font-size:30px">
 466frfx<span style="font-size:20px"> (466)
 </span><br/>
-18♂
+<span id="age">/span>♂
 <br/><br/>
 [more to be added]
 <br/><br/>
@@ -85,6 +106,6 @@ function goBack() {
            ```      ```      ```      ```      ````                             
           ````      ```      ```      ```      ```                              
                                                                                             
-                     466 2016 - 2021
+                     466 2016 - 2022
                      
 -->
