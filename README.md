@@ -1,5 +1,5 @@
 # 466frfx.github.io
-website.
+website with crappy code that i need to improve
 
 [466frfx.com](https://466frfx.com)
 
